@@ -1,5 +1,10 @@
 # 🚀 Zend - Optimizer V1.0
 
+
+<p align="center">
+  <img width="978" height="1216" alt="ZND - OPTMIZER V 1 0 0" src="https://github.com/user-attachments/assets/eefc639e-7834-4dba-81d2-5205ebe24b2c" />
+</p>
+
 [Português] | [English]
 
 ---
@@ -29,9 +34,13 @@
 ---
 
 ## 🚀 How to use / Como usar
-1. Download the latest version in **Releases**.
+1. Download the latest version in **Releases**. 
+https://github.com/bernardozend/Zend_Optimizer_V1/releases/tag/v1.0.0
 2. Run as **Administrator**.
 3. Select option `1 - Start Limpeza`.
 
 ---
 *Developed by Zend - 2026*
+
+
+
