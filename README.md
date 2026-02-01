@@ -2,7 +2,9 @@
 
 
 <p align="center">
-  <img width="978" height="1216" alt="ZND - OPTMIZER V 1 0 0" src="https://github.com/user-attachments/assets/eefc639e-7834-4dba-81d2-5205ebe24b2c" />
+
+<img width="1280" height="1591" alt="salvando" src="https://github.com/user-attachments/assets/bf379573-2395-4b76-8c39-184fb6a58677" />
+
 </p>
 
 [Português] | [English]
@@ -41,6 +43,7 @@ https://github.com/bernardozend/Zend_Optimizer_V1/releases/tag/v1.0.0
 
 ---
 *Developed by Zend - 2026*
+
 
 
 
