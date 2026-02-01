@@ -44,12 +44,14 @@ https://github.com/bernardozend/Zend_Optimizer_V1/releases/tag/v1.0.0
 ---
 
 ⚠️ Importante / Important
+
 PT-BR: Nota: Devido às permissões de Administrador necessárias para a limpeza profunda do sistema e otimização de perfis, alguns antivírus (como SentinelOne ou Windows Defender) podem emitir alertas de segurança. Isso é um falso-positivo comum em ferramentas de automação de sistema não assinadas digitalmente. Você pode auditar todo o código-fonte aqui no repositório para garantir a sua segurança.
 
 EN: Note: Due to the Administrator privileges required for deep system cleanup and profile optimization, some antivirus software (such as SentinelOne or Windows Defender) may trigger security alerts. This is a common false-positive for system automation tools that lack a digital signature. You are encouraged to audit the source code here in the repository to ensure its safety.
 
 ---
 *Developed by Zend - 2026*
+
 
 
 
